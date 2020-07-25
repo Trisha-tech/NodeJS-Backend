@@ -3,7 +3,9 @@ User Authentication + Ecommerce BackEnd
 
 APP LINK: https://nodejs-backend-1.herokuapp.com
 
-Note: Use POSTMAN to check the APIs
+Note: 1. Use POSTMAN to check the APIs
+
+2. All APIs are working except [Number 4 (USER AUTHENTICATION- '/platform/new-password' ] ISSUE: {"error":"Try again session expired."} --> Cann't be able to match sentToken with the resetToken
 
 USER AUTHENTICATION
 
